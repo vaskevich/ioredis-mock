@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/stipsan/ioredis-mock/issues"
   },
+  "version": "3.7.3",
   "main": "./lib",
   "files": [
     "example.js",
